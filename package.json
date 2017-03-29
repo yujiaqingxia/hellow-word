@@ -1,0 +1,67 @@
+{
+  "name": "hellow-word",
+  "version": "1.0.0",
+  "description": "this is hellow word",
+  "main": "index.js",
+  "dependencies": {
+    "accepts": "^1.3.3",
+    "array-flatten": "^1.1.1",
+    "content-disposition": "^0.5.2",
+    "content-type": "^1.0.2",
+    "cookie-signature": "^1.0.6",
+    "cookie": "^0.3.1",
+    "debug": "^2.6.3",
+    "destroy": "^1.0.4",
+    "depd": "^1.1.0",
+    "ee-first": "^1.1.1",
+    "etag": "^1.8.0",
+    "escape-html": "^1.0.3",
+    "encodeurl": "^1.0.1",
+    "express": "^4.15.2",
+    "finalhandler": "^1.0.1",
+    "forwarded": "^0.1.0",
+    "http-errors": "^1.6.1",
+    "fresh": "^0.5.0",
+    "ipaddr.js": "^1.3.0",
+    "inherits": "^2.0.3",
+    "media-typer": "^0.3.0",
+    "methods": "^1.1.2",
+    "merge-descriptors": "^1.0.1",
+    "mime-db": "^1.27.0",
+    "mime": "^1.3.4",
+    "mime-types": "^2.1.15",
+    "ms": "^0.7.2",
+    "on-finished": "^2.3.0",
+    "negotiator": "^0.6.1",
+    "parseurl": "^1.3.1",
+    "path-to-regexp": "^0.1.7",
+    "proxy-addr": "^1.1.4",
+    "range-parser": "^1.2.0",
+    "qs": "^6.4.0",
+    "serve-static": "^1.12.1",
+    "send": "^0.15.1",
+    "setprototypeof": "^1.0.3",
+    "statuses": "^1.3.1",
+    "type-is": "^1.6.14",
+    "unpipe": "^1.0.0",
+    "utils-merge": "^1.0.0",
+    "vary": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yujiaqingxia/hellow-word.git"
+  },
+  "keywords": [
+    "456"
+  ],
+  "author": "zhaiqingxia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yujiaqingxia/hellow-word/issues"
+  },
+  "homepage": "https://github.com/yujiaqingxia/hellow-word#readme"
+}

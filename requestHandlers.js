@@ -65,8 +65,6 @@ function upload(response,request) {
     // form.uploadDir='tmp';
     console.log("about to parse");
     form.uploadDir="./tmp";
-    console.log(request);
-    return false;
     form.parse(request, function(error, fields, files) {
         console.log("parsing done");
         console.log(files);
